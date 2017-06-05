@@ -1,3 +1,3 @@
 # get-unstuck
 
-At the moment this is a Wiki-only repository. Click the Wiki button above!
+At the moment this is a Wiki-only repository. [Go to Wiki.](../wiki)
